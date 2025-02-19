@@ -21,8 +21,3 @@ export default function SideBar() {
     </div>
   );
 }
-
-
-git remote add origin git@github.com:arpankumbhani/world-view-frontend.git
-git branch -M main
-git push -u origin main
