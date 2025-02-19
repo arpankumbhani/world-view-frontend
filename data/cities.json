@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Ahmedabad",
+      "country": "India",
+      "emoji": "🏳️",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "",
+      "position": {
+        "lat": 23.033863,
+        "lng": 72.585022
+      },
+      "id": 54684651
+    },
+    {
+      "cityName": "Junagadh",
+      "country": "India",
+      "emoji": "🚩",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "This is Lion's City",
+      "position": {
+        "lat": 21.515471,
+        "lng": 70.456444
+      },
+      "id": 15654853
+    },
+    {
+      "cityName": "Ahmedabad",
+      "country": "🇮🇳🇩🇮🇦",
+      "emoji": "🇮🇳",
+      "date": "2025-01-16T13:13:54.203Z",
+      "notes": "office",
+      "position": {
+        "lat": "23.070796845190788",
+        "lng": "72.51847743988039"
+      },
+      "id": 54684652
+    },
+    {
+      "cityName": "Gondal",
+      "country": "🇮🇳🇩🇮🇦",
+      "emoji": "🇮🇳",
+      "date": "2025-01-20T08:25:33.735Z",
+      "notes": "gathiya",
+      "position": {
+        "lat": "21.974787811161026",
+        "lng": "70.83435058593751"
+      },
+      "id": 54684653
+    }
+  ]
+}
