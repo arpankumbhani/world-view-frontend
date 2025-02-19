@@ -14,7 +14,7 @@ export default function CityList() {
     [fetchCities]
   );
   if (isLoading) return <SpinnerFullPage />;
-  if (cities && cities?.length == 0) {
+  if (cities && cities?.length === 0) {
     return (
       <Message message="Adding your first city by clicking on a city on the map " />
     );

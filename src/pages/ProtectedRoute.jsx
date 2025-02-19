@@ -29,7 +29,7 @@ export default function ProtectedRoute({ children }) {
     } else {
       navigate("/login");
     }
-  }, [navigate]);
+  }, [navigate, token]);
 
   return token ? children : null;
 }
